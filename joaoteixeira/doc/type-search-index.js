@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.teixeira.calculadora","l":"CalculadoraAPI"},{"p":"com.teixeira.calculadora","l":"geral"},{"p":"com.teixeira.calculadora","l":"tools"}]
