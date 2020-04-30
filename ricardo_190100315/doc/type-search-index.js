@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.marioduarte.calculadora","l":"calculadoraAPI"},{"p":"com.marioduarte.calculadora","l":"geral"},{"p":"com.marioduarte.calculadora","l":"tools"}]
