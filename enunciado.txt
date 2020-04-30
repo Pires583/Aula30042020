@@ -1,0 +1,5 @@
+Comentar classe geral
+Criar documentação para o projecto criarAPI
+Alterar nome da pasta nome_numero para o vosso nome e número
+Copiar classe geral e pasta doc para dentro dessa pasta
+Fazer pull-request do projecto no github
